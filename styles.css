@@ -6,6 +6,7 @@
 }
 
 .paragraph {
+    padding-top: 10px;
     text-align: center;
     font-size: medium;
     font-family: Georgia;
@@ -19,15 +20,17 @@
 }
 
 .poem-title {
+    padding-top: 60px;
+    text-align: center;
+    font-family: Georgia;
+    font-size: 35px;
+}
+
+.name {
     text-align: center;
     font-family: Georgia;
     font-size: 30px;
-}
-
-.poem {
-    text-align: left;
-    font-family: Georgia;
-    font-size: 15px;
+    font-weight: bold;
 }
 
 .center {
